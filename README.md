@@ -1,4 +1,4 @@
-# NiceHash Miner
+# BRIWSER COIN Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
