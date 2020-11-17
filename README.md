@@ -1,4 +1,4 @@
-# BROWUSER COIN Miner
+# BROWSER COIN Miner
 
 - [Introduction](#introduction)
 - [What are the benefits?](#benefits)
